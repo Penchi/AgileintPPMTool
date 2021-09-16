@@ -1,0 +1,8 @@
+package io.agileintelligence.ppmtool.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class MapValidationErrorService {
+
+}
